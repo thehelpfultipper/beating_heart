@@ -1,4 +1,4 @@
-# Animated Beating Heart
+# Animated Beating Heart :heart:
 
 **Blog Post:** [How To Create A Beating Heart Using HTML And CSS](https://thehelpfultipper.com/how-to-create-a-beating-heart-using-html-and-css/).
 
